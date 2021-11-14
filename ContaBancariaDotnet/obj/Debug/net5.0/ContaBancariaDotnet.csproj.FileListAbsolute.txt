@@ -1,0 +1,16 @@
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\obj\Debug\net5.0\ContaBancariaDotnet.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\obj\Debug\net5.0\ContaBancariaDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\obj\Debug\net5.0\ContaBancariaDotnet.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\obj\Debug\net5.0\ContaBancariaDotnet.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\obj\Debug\net5.0\ContaBancariaDotnet.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\bin\Debug\net5.0\ContaBancariaDotnet.exe
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\bin\Debug\net5.0\ContaBancariaDotnet.deps.json
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\bin\Debug\net5.0\ContaBancariaDotnet.runtimeconfig.json
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\bin\Debug\net5.0\ContaBancariaDotnet.runtimeconfig.dev.json
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\bin\Debug\net5.0\ContaBancariaDotnet.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\bin\Debug\net5.0\ref\ContaBancariaDotnet.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\bin\Debug\net5.0\ContaBancariaDotnet.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\obj\Debug\net5.0\ContaBancariaDotnet.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\obj\Debug\net5.0\ref\ContaBancariaDotnet.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\obj\Debug\net5.0\ContaBancariaDotnet.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto conta bancaria\ContaBancariaDotnet\ContaBancariaDotnet\obj\Debug\net5.0\ContaBancariaDotnet.genruntimeconfig.cache
